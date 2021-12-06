@@ -64,6 +64,7 @@ $ python3 -m DaisyXMusic
 - `/player` - open music player settings panel
 - `/pause` - pause song play
 - `/resume` - resume song play
+- `/snap` - banning group members
 - `/skip` - play next song
 - `/end` - stop music play
 - `/mute` - mute song play
